@@ -13,17 +13,16 @@
 
 ##  Features
 
-- 🐲 **Click to Earn** – Tap the dragon or the **BREATH FIRE** button to gain embers.
-- 📈 **Upgrade System** – 4 unique dragon upgrades:
+-  **Click to Earn** – Tap the dragon or the **BREATH FIRE** button to gain embers.
+-  **Upgrade System** – 4 unique dragon upgrades:
   - *Sharp Claws* – +1 ember per click.
   - *Inferno Breath* – +5 ember per click.
   - *Gold Hoard* – +2 ember per second (passive income).
   - *Ancient Wisdom* – Doubles your total click power (stackable!).
-- 🔥 **Dynamic Power Calculation** – Multipliers and flat bonuses work together for huge endgame values.
-- 💨 **Floating Damage Numbers** – Satisfying visual feedback on every click.
-- 🎨 **Atmospheric UI** – Dark, fantasy-inspired design with dragon scales and fire gradients.
-- 📱 **Responsive** – Works on desktop and mobile (touch-friendly buttons).
-- 🔁 **Reset & Rebirth** – Start a new dragon journey any time.
+-  **Dynamic Power Calculation** – Multipliers and flat bonuses work together for huge endgame values.
+-  **Floating Damage Numbers** – Satisfying visual feedback on every click.
+-  **Responsive** – Works on desktop and mobile (touch-friendly buttons).
+-  **Reset & Rebirth** – Start a new dragon journey any time.
 
 ---
 
