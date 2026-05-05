@@ -1,4 +1,4 @@
-# 🐉 Dragon Ember · Idle Clicker Game
+#  Dragon Ember · Idle Clicker Game
 
 > *Summon Emberfang, hoard ancient treasures, and become the mightiest dragon lord!*
 
@@ -11,7 +11,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🐲 **Click to Earn** – Tap the dragon or the **BREATH FIRE** button to gain embers.
 - 📈 **Upgrade System** – 4 unique dragon upgrades:
