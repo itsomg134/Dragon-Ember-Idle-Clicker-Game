@@ -1,5 +1,3 @@
-Here is a complete `README.md` file for your Dragon Ember game, ready to be added to your GitHub repository.
-```markdown
 # 🐉 Dragon Ember · Idle Clicker Game
 
 > *Summon Emberfang, hoard ancient treasures, and become the mightiest dragon lord!*
