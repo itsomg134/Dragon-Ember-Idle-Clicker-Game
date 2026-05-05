@@ -26,7 +26,7 @@
 
 ---
 
-## 🕹️ How to Play
+##  How to Play
 
 1. **Click the dragon avatar or the big orange button** to earn embers.
 2. Use embers to purchase upgrades from the **DRAGON HOARD UPGRADES** panel.
@@ -37,7 +37,7 @@
 
 ---
 
-## 🧠 Strategy Tips
+##  Strategy Tips
 
 - Early game: Buy **Sharp Claws** to boost click efficiency.
 - Mid game: Get **Gold Hoard** early for passive income while you're away.
