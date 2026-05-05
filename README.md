@@ -56,21 +56,16 @@
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
-```
+
 dragon-ember/
 ├── index.html          # Main game file (HTML, CSS, JS in one)
 ├── README.md           # Project documentation
 └── docs/               # (Optional) screenshots folder
     └── dragon-ember-screenshot.png
-```
 
-> *The game is fully contained in a single HTML file for easy deployment and sharing.*
-
----
-
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
 1. **Clone the repository**
    ```bash
