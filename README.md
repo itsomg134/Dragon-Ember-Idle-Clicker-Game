@@ -6,8 +6,8 @@
 
 🔗 **[Play the Game Live](https://your-username.github.io/dragon-ember)** — *replace with your actual GitHub Pages link*
 
-![Game Preview](docs/dragon-ember-screenshot.png)
-*(Add a screenshot of the game to your repo and update the path)*
+<img width="1872" height="1185" alt="image" src="https://github.com/user-attachments/assets/9f44248b-a42d-4251-ab11-607ef50a7860" />
+
 
 ---
 
