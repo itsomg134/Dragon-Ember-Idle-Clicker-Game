@@ -87,7 +87,7 @@ dragon-ember/
 
 ---
 
-## 🌐 Deploy to GitHub Pages
+##  Deploy to GitHub Pages
 
 1. Push your repository to GitHub.
 2. Go to **Settings → Pages**.
@@ -98,21 +98,7 @@ dragon-ember/
 
 ---
 
-## 📸 Screenshots
-
-*(Add actual screenshots to your repo and uncomment the lines below)*
-
-<!-- 
-![Main game interface](docs/screenshot-gameplay.png)
-*Click the dragon or button to earn embers.*
-
-![Upgrades panel](docs/screenshot-upgrades.png)
-*Purchase permanent upgrades that increase click power and passive income.*
--->
-
----
-
-## ❤️ Contributing
+##  Contributing
 
 Contributions, suggestions, and bug reports are welcome!
 
@@ -126,26 +112,29 @@ Please keep the game lightweight and vanilla JS focused.
 
 ---
 
-## 📝 License
+##  License
 
 MIT License – feel free to use, modify, and share this project for personal or commercial use.  
 See the [LICENSE](LICENSE) file for details (if you include one). Otherwise, this readme serves as notice.
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 - Created by **[Your Name]**  
 - Dragon emoji art provided by **open-source emoji sets**.  
 - Inspired by classic incremental games like *Cookie Clicker* and *Adventure Capitalist*.
 
----
+##  Contact
 
-## 📬 Contact
+Om Gedam
 
-🐉 **Project Link:** [https://github.com/your-username/dragon-ember](https://github.com/your-username/dragon-ember)  
-🔥 **Report issues:** [Open an issue](https://github.com/your-username/dragon-ember/issues)
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
-*May your hoard be endless and your flames ever bright!*
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
 
-```
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
